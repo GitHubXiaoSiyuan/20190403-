@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">0402</string>
+    <string name="etName">请输入账号</string>
+    <string name="etPass">请输入密码</string>
+    <string name="btnLogin">登录</string>
+    <string name="btnRegister">注册</string>
+</resources>
